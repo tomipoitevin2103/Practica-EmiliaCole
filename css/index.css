@@ -1,0 +1,90 @@
+.home {
+    background-image: url("../imagenes/home.jpg");
+    background-size: 950px 595px;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    font-size: normal;
+    text-decoration: none;
+}
+
+.bodyAbout{
+    background-image: url(../imagenes/about.jpg);
+    background-size: 940px 580px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    font-size: normal;
+    text-decoration: none;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+.home a{
+    text-decoration: none;
+    color: gray;
+}
+
+.emilia{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.twist{
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.headerAbout{
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: larger;
+    text-align: right;
+    
+}
+
+.bodyAbout h1{
+    font-size: 50px;
+}
+
+.itemsAbout{
+    text-align: right;
+}
+
+.aboutColor{
+    color: rgb(67, 161, 117);
+}
+
+.bodyMusic{
+    background-image: url(../imagenes/music-top.jpg);
+    background-size: 1300px 100px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    font-size: normal;
+    text-decoration: none;
+}
+
+.bodyContact{
+    background-size: 940px 580px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    font-size: normal;
+    text-decoration: none;
+}
+
+.bodyContact h4 {
+    color:rgb(67, 161, 117);
+}
+
+#contactColor {
+    color: black;
+}
+.bodyContact h5 {
+    font-weight: lighter;
+}
+
+.bodyMusic h2{
+    font-size: 20px;
+}
+
+
